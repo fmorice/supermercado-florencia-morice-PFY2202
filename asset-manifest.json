@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/supermercado-florencia-morice-PFY2202/supermercado/static/css/main.5df42c88.css",
-    "main.js": "/supermercado-florencia-morice-PFY2202/supermercado/static/js/main.180a78bb.js",
-    "static/js/453.210ce35a.chunk.js": "/supermercado-florencia-morice-PFY2202/supermercado/static/js/453.210ce35a.chunk.js",
-    "index.html": "/supermercado-florencia-morice-PFY2202/supermercado/index.html",
-    "main.5df42c88.css.map": "/supermercado-florencia-morice-PFY2202/supermercado/static/css/main.5df42c88.css.map",
-    "main.180a78bb.js.map": "/supermercado-florencia-morice-PFY2202/supermercado/static/js/main.180a78bb.js.map",
-    "453.210ce35a.chunk.js.map": "/supermercado-florencia-morice-PFY2202/supermercado/static/js/453.210ce35a.chunk.js.map"
+    "main.css": "/supermercado-florencia-morice-PFY2202/static/css/main.5df42c88.css",
+    "main.js": "/supermercado-florencia-morice-PFY2202/static/js/main.7307cf73.js",
+    "static/js/453.210ce35a.chunk.js": "/supermercado-florencia-morice-PFY2202/static/js/453.210ce35a.chunk.js",
+    "index.html": "/supermercado-florencia-morice-PFY2202/index.html",
+    "main.5df42c88.css.map": "/supermercado-florencia-morice-PFY2202/static/css/main.5df42c88.css.map",
+    "main.7307cf73.js.map": "/supermercado-florencia-morice-PFY2202/static/js/main.7307cf73.js.map",
+    "453.210ce35a.chunk.js.map": "/supermercado-florencia-morice-PFY2202/static/js/453.210ce35a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5df42c88.css",
-    "static/js/main.180a78bb.js"
+    "static/js/main.7307cf73.js"
   ]
 }
