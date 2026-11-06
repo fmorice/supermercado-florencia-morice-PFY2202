@@ -1,5 +1,7 @@
 import { BrowserRouter, Routes, Route, NavLink } from 'react-router-dom';
+import Carrito from './pages/Carrito';
 import Contacto from './pages/Contacto';
+import DetalleArticulo from './pages/DetalleArticulo';
 import IngresarArticulo from './pages/IngresarArticulo';
 import Inicio from './pages/Inicio';
 import Inventario from './pages/Inventario';
@@ -40,6 +42,8 @@ function App() {
           <Route path="/contacto" element={<Contacto />} />
           <Route path="/ingresar-articulo" element={<IngresarArticulo />} />
           <Route path="/inventario" element={<Inventario />} />
+          <Route path="/detalle/:id" element={<DetalleArticulo />} />
+          <Route path="/carrito" element={<Carrito />} />
           <Route path="*" element={<NoEncontrada />} />
         </Routes>
 

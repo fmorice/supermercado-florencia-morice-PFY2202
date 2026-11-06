@@ -1,4 +1,5 @@
 import { NavLink } from 'react-router-dom';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 function MenuInferior() {
   return (
@@ -22,6 +23,12 @@ function MenuInferior() {
       <NavLink to="/inventario">
         <span aria-hidden="true">▤</span>
         Inventario
+      </NavLink>
+      <NavLink to="/carrito">
+        <span aria-hidden="true">
+          <ShoppingCartIcon fontSize="inherit" />
+        </span>
+        Carrito
       </NavLink>
     </nav>
   );
